@@ -6,7 +6,7 @@ about: False # set to False or comment line if you want to remove the "How to us
 
 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: orange # blue turquoise green berry orange ceramic
+theme_skin: ceramic # blue turquoise green berry orange ceramic
 
 
 # Profile information
