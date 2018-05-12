@@ -1,16 +1,16 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: Computer Engineering
+  university: Dokuz Eylül University
+  time: 2015 - 2020
+  details: "I came to the university with DGS.
+  The first year, I learned Java and Android developing. The second year,
+  I learned to work with any Linux distro. Nowadays, I am learning Computer Architecture, React-Native,
+  Python. I continue learning and researching."
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: Computer Programmer
+  university: Mehmet Akif Ersoy University - Gölhisayar M.Y.O
+  time: 2012 - 2014
+  details: "When I was studying the school, 
+  I learned fundamentals of algorithms and basic sql queries.
+  I interested html-css and design a few websites.
+  I worked on microsoft server(dhcp, authorization etc.). I finished the school with 3.7 scores."
