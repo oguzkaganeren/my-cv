@@ -1,18 +1,30 @@
 - skill:
-  name: Python & Django
-  level: 98%
+  name: Android
+  level: 80%
 - skill:
-  name: Javascript & jQuery
-  level: 98%
+  name: Python
+  level: 38%
 - skill:
-  name: Angular
-  level: 98%
+  name: Java
+  level: 78%
 - skill:
   name: HTML5 & CSS
-  level: 95%
+  level: 90%
 - skill:
-  name: Ruby on Rails
-  level: 85%
+  name: Working on Linux
+  level: 65%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: C#
+  level: 70%
+  - skill:
+  name: Adobe Illustrator
+  level: 30%
+  - skill:
+  name: Google Extension
+  level: 20%
+   - skill:
+  name: Omnet++(inet)
+  level: 25%
+     - skill:
+  name: Algorithm
+  level: 65%
