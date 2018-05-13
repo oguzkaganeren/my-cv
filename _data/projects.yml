@@ -1,23 +1,34 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "These are my projects or works."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: DEU Computer Society Android Application
+    link: "https://github.com/oguzkaganeren/deu-bilgisayar-toplulugu-android"
+    tagline: "The application developed for the society member's to use"
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: Stock Exchange Chrome Extension
+    link: "https://github.com/oguzkaganeren/stock-exchange-chrome-extension"
+    tagline: "It gives us information about the stock exchange"
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: Ludo Game
+    link: "https://github.com/oguzkaganeren/console-game-ludo"
+    tagline: "The project is a game which developed on the csharp-console."
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    title: Maze Game
+    link: "https://github.com/oguzkaganeren/mazeGame-Java"
+    tagline: "The project which is a game developed on Java. I developed it for Deu CME."
   - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Robot Game
+    link: "https://github.com/oguzkaganeren/robot-game-java"
+    tagline: "The project which is a game developed on Java."
+  - project:
+    title: Happiness Time
+    link: "https://github.com/oguzkaganeren/happiness-time-app"
+    tagline: "It's an android application to developed for TAV Hackathon"
+  - project:
+    title: Installing Manjaro Guide
+    link: "https://github.com/oguzkaganeren/manjarodell7559.github.io"
+    tagline: "The guide was prepared for installing Manjaro on Dell 7559 model."
+  - project:
+    title: Airport Database
+    link: "https://github.com/oguzkaganeren/sql-airport-database-example"
+    tagline: "It is the code of the airport database homepage that is given to us in my university. "
