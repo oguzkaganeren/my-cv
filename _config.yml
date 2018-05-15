@@ -13,7 +13,7 @@ theme_skin: ceramic # blue turquoise green berry orange ceramic
 name: Oğuz Kağan EREN
 tagline: Works to be a developer
 pic: picture.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I'm studying at Dokuz Eylül University. I came to DEU from Mehmet Akif Ersoy University with DGS(I studied two years.). I learned fundamentals of algorithms and basic SQL queries when I'm at MAKU. I interested HTML-CSS and designed a few websites. I worked on Microsoft server(DHCP, authorization etc.). I finished the school with 3.7 scores. When I came DEU, The first year, I learned Java and Android developing. The second year,  I learned to work with any Linux distro. Nowadays, I am learning Computer Architecture, React-Native, Python. I continue learning and researching. My motivation is to say "If someone can accomplish a job, why can not I succeed?" and I know, I can accomplish. '
+summary: 'I'm studying at Dokuz Eylül University. I came to DEU from Mehmet Akif Ersoy University with DGS(I studied two years.). I learned fundamentals of algorithms and basic SQL queries when I'm at MAKU. I interested HTML-CSS and designed a few websites. I worked on Microsoft server(DHCP, authorization etc.). I finished the school with 3.7 scores. When I came DEU, The first year, I learned Java and Android developing. The second year,  I learned to work with any Linux distro. Nowadays, I am learning Computer Architecture, React-Native, Python. I continue learning and researching. My motivation is to say \"If someone can accomplish a job, why can not I succeed?\" and I know, I can accomplish. '
 
 # Sidebar links
 website: oguzeren.org #do not add http://
