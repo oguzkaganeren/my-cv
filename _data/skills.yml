@@ -1,4 +1,10 @@
 - skill:
+  name: React-Native
+  level: 50%
+- skill:
+  name: NodeJS
+  level: 15%
+- skill:
   name: Android
   level: 80%
 - skill:
