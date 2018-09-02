@@ -1,6 +1,6 @@
 intro: "These are my projects or works."
 projects:
-- project:
+  - project:
     title: innoSense - Ses Dönüştürücü (Voice Transformer)
     link: "https://play.google.com/store/apps/details?id=com.innosense"
     tagline: "The application converts the sound to graph, text, and vibration. It is developed using React-Native"
