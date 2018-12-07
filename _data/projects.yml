@@ -2,9 +2,11 @@ intro: "These are my projects or works."
 projects:
 - project:
     title: Developing Project Management System with using React and postgreSQL(Web Token)
+    link: "#"
     tagline: "Due to Its closed beta, I do not show any picture or source code."
 - project:
     title: Developed User Interface with using Vue-Framework
+    link: "#"
     tagline: "I developed a web interface with using Vue. Due to Its closed beta, I do not show any picture or source code."
   - project:
     title: innoSense - Ses Dönüştürücü (Voice Transformer)
