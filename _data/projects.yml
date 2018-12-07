@@ -1,5 +1,11 @@
 intro: "These are my projects or works."
 projects:
+- project:
+    title: Developing Project Management System with using React and postgreSQL(Web Token)
+    tagline: "Due to Its closed beta, I do not show any picture or source code."
+- project:
+    title: Developed User Interface with using Vue-Framework
+    tagline: "I developed a web interface with using Vue. Due to Its closed beta, I do not show any picture or source code."
   - project:
     title: innoSense - Ses Dönüştürücü (Voice Transformer)
     link: "https://play.google.com/store/apps/details?id=com.innosense"
