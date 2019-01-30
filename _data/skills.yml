@@ -2,8 +2,14 @@
   name: React-Native
   level: 50%
 - skill:
+  name: React
+  level: 50%
+- skill:
+  name: VueJS
+  level: 25%
+- skill:
   name: NodeJS
-  level: 15%
+  level: 25%
 - skill:
   name: Android
   level: 80%
@@ -18,7 +24,7 @@
   level: 90%
 - skill:
   name: Working on Linux
-  level: 65%
+  level: 75%
 - skill:
   name: C#
   level: 70%
