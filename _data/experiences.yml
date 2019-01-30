@@ -1,13 +1,10 @@
-experiences:
-    - role: Mobile-Web Developer
-      time: 2018-07 - 2018-01
-      company: Innolife Mechatronics Engineering and Consulting Company
-      details: |
-        I developed a few projects for Innolife Company.
+- experience:
+  role: Mobile-Web Developer
+  time: 2018-07 - 2018-01
+  company: Innolife Mechatronics Engineering and Consulting Company(İzmir)
+  details: "I developed a few projects for Innolife Company.
         Firstly, I developed their website with HTML-CSS.
         After that, I had been done Voice Transformer(Mobile App)
         by using React-Native. I had developed Advance User
         Interface with using VueJS. Lastly, I had been developed
-        a Project Management System(on Web) with React.
-          - Bullet point
-          - Bullet point
+        a Project Management System(on Web) with React."
