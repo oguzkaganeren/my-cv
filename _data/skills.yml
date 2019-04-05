@@ -11,6 +11,9 @@
   name: NodeJS
   level: 25%
 - skill:
+  name: HUGO-Framework
+  level: 20%
+- skill:
   name: Android
   level: 80%
 - skill:
