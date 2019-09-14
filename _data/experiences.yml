@@ -1,5 +1,10 @@
 - experience:
   role: Mobile-Web Developer
+  time: 2019-07 - 2019-09
+  company: Davon Information Technologies(İzmir)
+  details: "It was my intern. I developed JPA graphql server(mutation and query server). I worked on react-native project with using TypeScript with ES6 standards. I merged two graphql servers on one server. I wrote many query and mutation for the project."
+- experience:
+  role: Mobile-Web Developer
   time: 2018-07 - 2018-01
   company: Innolife Mechatronics Engineering and Consulting Company(İzmir)
   details: "I developed a few projects for Innolife Company.
