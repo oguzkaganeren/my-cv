@@ -1,21 +1,27 @@
 - skill:
   name: React-Native
-  level: 50%
+  level: 65%
 - skill:
   name: React
-  level: 50%
+  level: 65%
+- skill:
+  name: Graphql
+  level: 75%
+- skill:
+  name: Spring
+  level: 55%
 - skill:
   name: VueJS
   level: 25%
 - skill:
   name: NodeJS
-  level: 25%
+  level: 35%
 - skill:
   name: HUGO-Framework
   level: 20%
 - skill:
-  name: Android
-  level: 80%
+  name: Android-Java
+  level: 70%
 - skill:
   name: Python
   level: 38%
@@ -27,7 +33,7 @@
   level: 90%
 - skill:
   name: Working on Linux
-  level: 75%
+  level: 85%
 - skill:
   name: C#
   level: 70%
