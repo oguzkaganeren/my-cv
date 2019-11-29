@@ -10,6 +10,8 @@ theme_skin: ceramic # blue turquoise green berry orange ceramic
 
 
 # Profile information
+
+email: me@oguzkaganeren.com.tr
 name: Oğuz Kağan EREN
 tagline: _
 pic: picture.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
