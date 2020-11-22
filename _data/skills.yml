@@ -1,9 +1,9 @@
 - skill:
   name: React-Native
-  level: 65%
+  level: 60%
 - skill:
   name: React
-  level: 65%
+  level: 60%
 - skill:
   name: Graphql
   level: 75%
@@ -21,13 +21,16 @@
   level: 20%
 - skill:
   name: Android-Java
-  level: 70%
+  level: 60%
 - skill:
   name: Python
   level: 38%
 - skill:
   name: Java
   level: 78%
+- skill:
+  name: SQL
+  level: 70%
 - skill:
   name: HTML5 & CSS
   level: 90%
@@ -36,10 +39,7 @@
   level: 85%
 - skill:
   name: C#
-  level: 70%
-- skill:
-  name: Adobe Illustrator
-  level: 30%
+  level: 60%
 - skill:
   name: Google Extension
   level: 20%
