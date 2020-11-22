@@ -15,7 +15,9 @@ email: me@oguzkaganeren.com.tr
 name: Oğuz Kağan EREN
 tagline: _
 pic: picture.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am studying computer engineering at Dokuz Eylül University. I came to DEU from Mehmet Akif Ersoy University with DGS(I studied two years.). I learned fundamentals of algorithms and basic <i>SQL</i> queries when I am at MAKU. I interested HTML-CSS and designed a few websites. I worked on Microsoft server(DHCP, authorization etc.). I finished the school with 3.7 scores. When I came DEU, The first year, I learned <i>Java</i> and <i>Android developing(with created a project)</i>, <i>Firebase(with created a project)</i>. The second year,  I learned to work with any Linux distro. Nowadays, I am learning Computer Architecture, <i>React-Native</i>, <i>Python</i>. I continue learning and researching. My motivation is to say &quot;If someone can accomplish a job, why can not I succeed?&quot; and I know, I can accomplish. '
+summary: 'I graduated in computer engineering from Dokuz Eylül University. Also, I graduated with 3.7 scores in Computer Programming from Mehmet Akif Ersoy University. I learned the fundamentals of algorithms and basic SQL at Mehmet Akif Ersoy University. I started with Java and Android. Then, I continued to search linux distros and I discovered Manjaro Linux. 
+  I started to develop my works on Linux at this point. I can say that I love to works on Linux systems. Then, I wondered to develop a multi-platform application with my summer interview.
+  So, I learned React-Native, Expo, Typescript etc. Python. I fall in love these technologies. At the same time, I did my homeworks with Python, R, Java.'
 
 # Sidebar links
 website: oguzkaganeren.com.tr #do not add http://
