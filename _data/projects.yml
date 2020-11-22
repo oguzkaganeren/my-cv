@@ -1,5 +1,13 @@
-intro: "These are my projects or works."
+intro: "These are my projects or mini works."
 projects:
+  - project:
+    title: Developing Manjaro Wiki
+    link: "https://wiki.manjaro.org/"
+    tagline: "I set the plugins and settings and set up to server. Also, I am author on it."
+  - project:
+    title: Developing Manjaro App
+    link: "https://play.google.com/store/apps/details?id=com.manjaro.manjarohome"
+    tagline: "It helps to download Manjaro Linux and discover it"
   - project:
     title: Developing Project Management System with using React and postgreSQL(Web Token)
     link: "#"
