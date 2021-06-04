@@ -49,3 +49,9 @@
 - skill:
   name: Algorithm
   level: 65%
+- skill:
+  name: Cucumber
+  level: 65%
+- skill:
+  name: Junit
+  level: 40%
