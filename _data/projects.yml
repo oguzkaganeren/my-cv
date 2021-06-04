@@ -1,6 +1,14 @@
 intro: "These are my projects or mini works."
 projects:
   - project:
+    title: Biopro
+    link: "http://www.davon.com.tr/en/products/biopro.html"
+    tagline: "The project is asset manager that covered by healthcare industry needs."
+  - project:
+    title: Petra Application
+    link: "https://github.com/oguzkaganeren/petra-application"
+    tagline: "It was our final term project. It was web and mobile application for planning your vacations."
+  - project:
     title: Developing Manjaro Wiki
     link: "https://wiki.manjaro.org/"
     tagline: "I set the plugins and settings and set up to server. Also, I am author on it."
