@@ -3,12 +3,12 @@
   level: 60%
 - skill:
   name: React
-  level: 60%
+  level: 40%
 - skill:
   name: Graphql
-  level: 75%
+  level: 60%
 - skill:
-  name: Spring
+  name: Quarkus
   level: 55%
 - skill:
   name: VueJS
