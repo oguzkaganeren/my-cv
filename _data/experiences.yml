@@ -1,25 +1,21 @@
 - experience:
-  role: Mobile-Web Developer(Main Job)
+  role: Jenior Java Developer
   time: 2020-07 - Now
   company: Davon Information Technologies(İzmir)
-  details: "I am working on a spring-boot project. Also, I am working on MSSQL, EXTJS, Talend Studio."
+  details: "We are working on a spring-boot project(Biopro Asset Management) with MSSQL, EXTJS, Talend Studio, Quarkus, (Actually every technology that we need)"
 - experience:
   role: Documentationer & Mobile Developer(Volunteer)
   time: 2019-11 - Now
-  company: Manjaro Linux
+  company: Manjaro Linux(manjaro.org)
   details: "I am working on Manjaro Wiki. Also, I am developing Manjaro Mobile App."
 - experience:
   role: Mobile-Web Developer
   time: 2019-07 - 2019-09
   company: Davon Information Technologies(İzmir)
-  details: "It was my intern. I developed JPA graphql server(mutation and query server). I worked on react-native project with using TypeScript with ES6 standards. I merged two graphql servers on one server. I wrote many query and mutation for the project."
+  details: "It was my summer intern. I developed JPA graphql server(mutations and queries). I worked on a react-native project using TypeScript with ES6 standards. I merged two graphql servers on one server. I wrote many queries and mutations for the project."
 - experience:
   role: Mobile-Web Developer
   time: 2018-07 - 2018-01
-  company: Innolife Mechatronics Engineering and Consulting Company(İzmir)
-  details: "I developed a few projects for Innolife Company.
-        Firstly, I developed their website with HTML-CSS.
-        After that, I had been done Voice Transformer(Mobile App)
-        by using React-Native. I had developed Advance User
-        Interface with using VueJS. Lastly, I had been developed
-        a Project Management System(on Web) with React."
+  company: Innolife Mechatronics Engineering and Consulting Company[Part-Time](İzmir)
+  details: "I developed their website with HTML-CSS,Voice Transformer(Mobile App) by using React-Native, Advance User
+        Interface with using VueJS. I had been developed a Project Management System(on Web) with React."
